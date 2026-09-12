@@ -1,5 +1,3 @@
-</section>
-
 <section id = "contact">
 
     <h2> Contact</h2>
@@ -16,7 +14,3 @@
         Email:    kmartinez3554@gmail.com
         <br>
 </section>
-
-</body>
-
-</html>
